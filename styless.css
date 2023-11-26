@@ -34,7 +34,7 @@ nav {
 
 /* Hero section styles */
 .hero {
-  background: url('/storage/emulated/0/Photo Editor/Polish_20231117_081920618.jpg') center/cover no-repeat;
+  background: url('Polish_20231117_081920618.jpg') center/cover no-repeat;
   height: 100vh;
   display: flex;
   justify-content: center;
